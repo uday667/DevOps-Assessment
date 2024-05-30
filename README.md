@@ -3,6 +3,8 @@
 
 ## Introduction
 
+jijj
+
 This project focuses on deploying a scalable, reliable, and maintainable notification system on AWS. The system consists of two primary microservices:
 - **Notification API**: Receives notification requests and queues them.
 - **Email Sender**: Processes messages from the queue and sends emails.
